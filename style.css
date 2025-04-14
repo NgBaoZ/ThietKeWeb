@@ -98,6 +98,25 @@ header button:hover {
     align-items: center;
     box-shadow: 3px 3px 5px rgba(51, 51, 51, 0.5);
 }
+<<<<<<< Updated upstream
+=======
+.banner h1{
+    font-size: 3rem;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0; /* Loại bỏ khoảng cách mặc định */
+    text-align: center; /* Căn giữa nội dung */
+}
+.banner p{
+    font-size: 1.2rem; /* Kích thước chữ cho đoạn văn */
+    color: #555555; 
+    margin: 0; /* Loại bỏ khoảng cách mặc định */
+    text-align: center; /* Căn giữa nội dung */
+    
+}
+>>>>>>> Stashed changes
 .banner img{
     width:85%;
     align-items: center;
